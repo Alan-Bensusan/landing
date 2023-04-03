@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Rubik:wght@300&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+
+body {
+font-family: rubik ;
+font-size: 18px;
+margin: 0px;
+background-color: #F5EBEB;
+}
+
+
+h1, h2, h3 {
+font-family: oswald;
+font-weight: bold;
+}
+
+
+h2 {
+padding-top: 20px;
+
+}
+
+h4 {
+  color: black;
+  font-size: 25px;
+  margin-bottom: 80px;
+  height: 80px;
+  font-weight: bold;
+  color: #2B3A55;
+  }
+
+
+
+a{
+text-decoration: none;
+
+}
+
+
+
+
